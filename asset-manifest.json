@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Medico-webapp/static/css/main.de2dcda0.css",
+    "main.js": "/Medico-webapp/static/js/main.fa5db65a.js",
+    "static/media/symptom.jpg": "/Medico-webapp/static/media/symptom.9e35a2ac0d199395b921.jpg",
+    "static/media/banner.png": "/Medico-webapp/static/media/banner.45289d8e7217d52654a4.png",
+    "static/media/step2.png": "/Medico-webapp/static/media/step2.dcbddc782dc044dd54c0.png",
+    "static/media/corona.png": "/Medico-webapp/static/media/corona.b886deeda306700b609e.png",
+    "static/media/step1.png": "/Medico-webapp/static/media/step1.d4be625fde9a4247ced2.png",
+    "static/media/info3.png": "/Medico-webapp/static/media/info3.8958e6483f382788795c.png",
+    "index.html": "/Medico-webapp/index.html",
+    "main.de2dcda0.css.map": "/Medico-webapp/static/css/main.de2dcda0.css.map",
+    "main.fa5db65a.js.map": "/Medico-webapp/static/js/main.fa5db65a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2dcda0.css",
+    "static/js/main.fa5db65a.js"
+  ]
+}
