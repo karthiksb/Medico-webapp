@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 8vh;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.left-header {
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+}
+.right-header button {
+  width: 100px;
+  height: 40px;
+  background: #f14338;
+  border-style: none;
+  color: #fff;
+  border-radius: 20px;
+}
